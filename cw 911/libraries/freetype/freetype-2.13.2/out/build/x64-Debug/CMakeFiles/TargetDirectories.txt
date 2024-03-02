@@ -1,0 +1,8 @@
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/package.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/freetype.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/package_source.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/install/local.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/install.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+J:/Downloads/grk/cw 911/libraries/freetype/freetype-2.13.2/out/build/x64-Debug/CMakeFiles/list_install_components.dir

@@ -1,0 +1,78 @@
+﻿  Box.cpp
+  Camera.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+J:\Downloads\interstellar-odyssey-main\dependencies\glfw-3.3.8.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(113,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(131,38): warning C4305: '=': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(179,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(239,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(249,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(278,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(280,11): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(283,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(285,11): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(288,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(290,11): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(293,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(295,11): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(298,59): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(300,11): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(370,2): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(377,2): warning C4305: 'argument': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(499,21): warning C4305: '-=': truncation from 'double' to 'float'
+J:\Downloads\interstellar-odyssey-main\cw 9\src\ex_9_1.hpp(501,21): warning C4305: '+=': truncation from 'double' to 'float'
+  Render_Utils.cpp
+  Shader_Loader.cpp
+  Texture.cpp
+  Generating Code...
+  image_DXT.c
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_DXT.c(92,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  image_helper.c
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_helper.c(325,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_helper.c(366,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_helper.c(373,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_helper.c(415,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\image_helper.c(422,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SOIL.c
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\SOIL.c(1719,36): warning C4018: '<=': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\SOIL.c(1729,19): warning C4018: '<': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\SOIL.c(1841,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  stb_image_aug.c
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(177,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(251,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(303,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(1557,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(2394,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(2709,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(2995,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(3209,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(3548,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stb_image_aug.c(3644,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stbi_DDS_aug_c.h(362,19): warning C4018: '>': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stbi_DDS_aug_c.h(366,19): warning C4018: '>': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stbi_DDS_aug_c.h(390,19): warning C4018: '<': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stbi_DDS_aug_c.h(427,19): warning C4018: '<': signed/unsigned mismatch
+J:\Downloads\interstellar-odyssey-main\cw 9\src\SOIL\stbi_DDS_aug_c.h(498,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+LINK : fatal error LNK1181: cannot open input file 'freeglut.lib'
